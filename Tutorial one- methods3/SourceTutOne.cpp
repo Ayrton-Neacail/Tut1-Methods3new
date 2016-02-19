@@ -6,8 +6,8 @@ int main()
 
 	int x;
 
-	for (x = 0; x < 51; x++){
-		cout << x << endl;
+	for (x = 1; x < 51; x++){
+		
 
 		if (x % 3 == 0){
 			cout << "Fizz" << endl;
