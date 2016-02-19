@@ -6,7 +6,7 @@ int main()
 
 	int x;
 
-	for (x = 1; x < 21; x++){
+	for (x = 0; x < 21; x++){
 		cout << x << endl;
 
 		if (x % 3 == 0){
